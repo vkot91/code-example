@@ -1,0 +1,9 @@
+.posts {
+  padding: 20px 0;
+  &__title {
+    padding-bottom: 20px;
+    padding-left: 10px;
+    font-size: 30px;
+    border-bottom: $border-bottom;
+  }
+}
