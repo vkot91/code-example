@@ -15,12 +15,8 @@ Stack:
 This example demonstrate how to use a reusable modal windows in your application(with simple text or form).
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/en/) to install React Social Network.
+Use the package manager [npm](https://nodejs.org/en/) to install node on your local machine
 
-Clone the repository from Github
-
-```
-$ git clone https://github.com/vkot91/
 ```
 
 Install all dependencies
