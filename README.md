@@ -17,14 +17,11 @@ This example demonstrate how to use a reusable modal windows in your application
 
 Use the package manager [npm](https://nodejs.org/en/) to install node on your local machine
 
-```
-
 Install all dependencies
 
 ```
 $ npm install
 ```
-
 Run application
 
 ```
